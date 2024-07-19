@@ -1,10 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=75B3F7&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Daria+Damian.+)](https://git.io/typing-svg)
 
-
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> MSc Data Science Student at IT University of Copenhagen
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a MSc Data Science Student at IT University of Copenhagen.
 
 🚀 I’m a data science enthusiast with a deep passion for machine learning, programming, and statistics. Currently pursuing my Bachelor of Science in Data Science at the IT University of Copenhagen, I am driven by a relentless pursuit of knowledge and a strong ambition to excel in the tech world.
 
