@@ -2,6 +2,10 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Data Science MSc Student at IT University of Copenhagen
 
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
 🚀 I’m a data science enthusiast with a deep passion for machine learning, programming, and statistics. Currently pursuing my Bachelor of Science in Data Science at the IT University of Copenhagen, I am driven by a relentless pursuit of knowledge and a strong ambition to excel in the tech world.
 
 🔍 My GitHub hosts a variety of projects that showcase my abilities in Generative AI, election and image prediction, social and sentiment network analysis, and other innovative areas of data science. These projects reflect my hands-on approach and the practical application of theoretical concepts I've learned throughout my academic and personal learning journey.
