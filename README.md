@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=75B3F7&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Daria+Damian!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=75B3F7&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Daria+Damian.+)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> MSc Data Science Student at IT University of Copenhagen
 
